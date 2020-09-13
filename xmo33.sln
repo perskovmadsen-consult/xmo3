@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "xmo33", "xmo33\xmo33.dtproj", "{5899FE70-8019-47FD-9895-3A1E3B634C29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Azure|Default = Azure|Default
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5899FE70-8019-47FD-9895-3A1E3B634C29}.Azure|Default.ActiveCfg = Azure
+		{5899FE70-8019-47FD-9895-3A1E3B634C29}.Azure|Default.Build.0 = Azure
+		{5899FE70-8019-47FD-9895-3A1E3B634C29}.Development|Default.ActiveCfg = Development
+		{5899FE70-8019-47FD-9895-3A1E3B634C29}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7631D688-7E71-4023-BA8E-8873A182284E}
+	EndGlobalSection
+EndGlobal
